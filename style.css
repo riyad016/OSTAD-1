@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.hero_left{
+    margin: 50px 0;
+}
+.hero_left h1{
+    color:#4D4D4D;
+    margin-top: 50px;
+}
+.hero_left  p{
+    opacity:.7 ;
+}
+.hero_right img{
+    height: 407px;
+    width: 391px;
+    padding: 50px;
+
+}
